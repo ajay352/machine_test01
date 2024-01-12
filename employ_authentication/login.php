@@ -15,12 +15,12 @@
     </style>
 </head>
 <body>
-    <div class="cotainer border border-black w-8/12 mx-auto">
+    <div class="cotainer w-8/12 mx-auto">
         <div>
-            <div class="text-center border border-black mx-auto font-bold">
+            <div class="text-center mx-auto font-bold">
                 Login
             </div>
-            <div class="w-4/12 border border-black mx-auto ">
+            <div class="w-4/12 mx-auto ">
                 <form action="../login_auth.php" method="post">
                     <div class="mb-4">
                         <label for="email" class="font-bold text-gray-700 text-sm">Email:</label>

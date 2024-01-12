@@ -7,5 +7,4 @@ if ($_SERVER["REQUEST_METHOD"]=="GET"){
         header("location:./employ_authentication/dashboard.php");
     }
 }
-
 ?>
